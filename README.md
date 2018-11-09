@@ -58,30 +58,6 @@ untuk bisa menjumlahkan hasil.
 ** Flowchart Program**
 ![fl2](https://github.com/Isrohdyt18/praktikum4/blob/master/Flowchart2.jpeg)
 
-**CODE PROGRAM**
-```c++
-```
-**HASIL**
-![hasil2](https://github.com/Isrohdyt18/praktikum4/blob/master/hasil%20coding2.png)
-
-
-## Latihan3.cpp 
-
-**Alur Argoritma**
-1. Mendeklarasikan Variable int A,B,C sebagai varible input
-2. membaca input dari key board  cin >> A >> B >> C
-3. membandikan nilain variable **A** dengan Variable **B** jika sama,  
-4. Bandingkan kembali variabel A dengan variabel C  
-5. Jika kondisi **true**/ ketiga variabel sama Maka cetaklah  **SEGITIGA SAMA SISI **
-6. jika **false**/ jika hanya dua yang sama Maka cetaklah **SEGITIGA SAMA KAKI**
-7. Dan jika Variavel A Sama dengan variabel C, jika kondisi *true** kama cetaklah **SEGITIGA SAMA KAKI**
-8. jika kondisi **false** samakan kembali variabel C dengan Variabel B, jika kondisi **true** cetaklah **SEGITIGA SAMA KAKI**
-9. jika kondisi **false** Cetaklah **SEGITIGA SEMBARANG**
-10.END
-
-
-**Flowchart Program**
-![fl3](https://raw.githubusercontent.com/Amirul29/praktikum3/master/LAT3.jpg)
 
 **CODE PROGRAM**
 ```c++
@@ -128,6 +104,7 @@ int main ()
 ```
 
 **HASIL**
-![hasil3](https://raw.githubusercontent.com/Amirul29/praktikum3/master/hasil3.png)
+![hasil2](https://github.com/Isrohdyt18/praktikum4/blob/master/hasil%20coding2.png)
+
 
 **Terima Kasih**
